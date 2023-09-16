@@ -3,7 +3,7 @@
 ### :computer: <b>Langs:</b> <br>
 - TypeScript, Lua <br>
 
-### ⭐ Skiils: 
+### ⭐ Skils: 
 - Git and Git flow
 - Front-End Development (HTML, CSS, React)
 - Back-End Developemnt (Node, TypeScript)
