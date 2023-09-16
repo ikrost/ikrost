@@ -1,16 +1,14 @@
-### Hi there 👋
+🕺 Full-time fullstack Developer <br>
 
-<!--
-**ikrost/ikrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :computer: <b>Langs:</b> <br>
+- TypeScript, Lua <br>
 
-Here are some ideas to get you started:
+### ⭐ Skiils: 
+- Git and Git flow
+- Front-End Development (HTML, CSS, React)
+- Back-End Developemnt (Node, TypeScript)
+- DevOps (Docker, Kubernetes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📀 <b>Frameworks, DataBases and services:</b> <br>
+- Databases (MySQL, SQLite, MongoDB)
+- Services (Oracle, Azure, oauth2)
