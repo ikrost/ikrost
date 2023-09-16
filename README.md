@@ -5,10 +5,10 @@
 
 ### ⭐ Skills: 
 - Git and Git flow
-- Front-End Development (HTML, CSS, React)
-- Back-End Developemnt (Node, TypeScript)
-- DevOps (Docker, Kubernetes)
+- Front-End Development (**HTML**, **CSS**, **React**)
+- Back-End Developemnt (**Node**, **TypeScript**)
+- DevOps (**Docker**, **Kubernetes**)
 
-### 📀 <b>Frameworks, DataBases and services:</b> <br>
-- Databases (MySQL, SQLite, MongoDB)
-- Services (Oracle, Azure, oauth2)
+### 📀 <b>Frameworks, DataBases, services and Softwares:</b> <br>
+- Databases: **MySQL**, **SQLite**, **MongoDB**
+- Services: **Oracle**, **Azure**, **oauth2**
