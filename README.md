@@ -4,7 +4,7 @@
 - **TypeScript**, **Lua** <br>
 
 ### ⭐ Skills: 
-- Git and Git flow
+- **Git** and **Git flow**
 - Front-End Development (**HTML**, **CSS**, **React**)
 - Back-End Developemnt (**Node**, **TypeScript**)
 - DevOps (**Docker**, **Kubernetes**)
