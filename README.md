@@ -9,6 +9,6 @@
 - Back-End Developement (**Node**, **TypeScript**)
 - DevOps (**Docker**, **Kubernetes**)
 
-### 📀 <b>Frameworks, DataBases, services and Softwares:</b> <br>
+### 📀 <b>Frameworks, DataBases, services and Softwares:</b> 
 - Databases: **MySQL**, **SQLite**, **MongoDB**
 - Services: **Oracle**, **Azure**, **oauth2**
