@@ -1,7 +1,7 @@
-🕺 Full-time fullstack Developer <br>
+🕺 Full-time fullstack Developer
 
-### :computer: <b>Langs:</b> <br>
-- **TypeScript**, **Lua** <br>
+### :computer: <b>Langs:</b> 
+- **TypeScript**, **Lua** 
 
 ### ⭐ Skills: 
 - **Git** and **Git flow**
